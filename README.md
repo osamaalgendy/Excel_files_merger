@@ -48,7 +48,7 @@ Working in a Samsung-style corporate environment with **NASCA document DRM**? Ex
 ### 🔹Download Executable
 
 For Windows users:  
-👉 Download the `.exe` file from the [Releases](https://github.com/osamaalgendy/Excel_files_merger/releases/download/v2/ExcelFilesMerger.exe) page and run directly (no installation needed).
+👉 Download the `.exe` file from the [Releases](https://github.com/osamaalgendy/Excel_files_merger/releases/download/V2/ExcelFilesMerger.exe) page and run directly (no installation needed).
 
 ---
 
